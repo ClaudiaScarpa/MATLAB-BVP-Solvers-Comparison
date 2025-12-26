@@ -54,6 +54,7 @@ The project is structured to ensure modularity:
 ## Key Findings
 
 Our analysis confirms that while both solvers share the same underlying methodology, bvp4c is generally preferable for its computational reliability and robustness. In contrast, bvp5c becomes more advantageous when high-level accuracy is required and the solution is sufficiently smooth.
+
 ---
 ## References
 
