@@ -22,8 +22,8 @@ Key areas of focus include **residual control**, **computational efficiency**, a
 │   ├── exercises/    # Complex applications (Bratu's problem, Gas dynamics)
 │   └── GUI/          # Interactive environment for performance exploration
 ├── docs/
-│   ├── exercis/    # Complex applications (Bratu's problem, Gas dynamics)
-│   └── Progetto_NM.pdf   # Full technical report
+│   ├── Solving BVP for ODE in MATLAB with bvp4c.pdf  # Reference paper for project methodology and examples
+│   └── report.pdf   # Full technical report
 └── README.md
 ```
 
