@@ -45,12 +45,14 @@ The project is structured to ensure modularity:
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/ClaudiaScarpa/Numerical-Methods-Project.git](https://github.com/ClaudiaScarpa/Numerical-Methods-Project.git)
-
+   ```
 2. **Open MATLAB** and navigate to the code/ folder.
 3. **Run the bvp_app** to generate comparison plots,
 3. **Check the Report (docs/report.pdf)** for a detailed discussion about the theoretical backgrounds, and analysis of some case studies.
 ---
+
 ## Key Findings
+
 Our analysis confirms that while both solvers share the same underlying methodology, bvp4c is generally preferable for its computational reliability and robustness. In contrast, bvp5c becomes more advantageous when high-level accuracy is required and the solution is sufficiently smooth.
 ---
 ## References
